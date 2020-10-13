@@ -1,1 +1,1 @@
-Guruh uchun menejer bot [Telegram](t.me/idevelopers)
+*Guruh uchun menejer bot* [Telegram](t.me/idevelopers)
